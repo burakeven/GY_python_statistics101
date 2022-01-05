@@ -1,0 +1,19 @@
+Kovaryans:
+iki değişken arasındaki ilişkinin değişkenlik ölçüsüdür.
+
+Varyans:
+ortalama etrafındaki dağılım ölçüsü
+
+standart sapmanın karesi alındığında varyans elde edilir.
+
+Korelasyon:
+İki değişken arasındaki ilişkiyi, ilişkinin anlamlı olup olmadığını, ilişkinin şiddetini ve yönünü ifade eden istatistiksel bir tekniktir.
+
+iki değişken arasında ilişki değişenkliği kovaryanstır
+iki değişken arasındaki ilişkiyi ele alan ise korelasyondur.
+
+Güven aralığı nedir?
+Anakütle parametresinin tahmini değerini kapsayabilecek iyi sayıdan oluşan bir aralık bulunmasıdır.
+Örnek istatistiğinin iki aralıkça bulunması, kısaca budur.
+Ölçümün hassasiyetin bir göstergesidir.
+Yapmış olunan tahminlerin güvenirliğini sunar.

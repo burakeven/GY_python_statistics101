@@ -1,0 +1,10 @@
+İş uygulaması: Fiyat Stratejisi Karar Destek
+
+Problem:
+Ceo, fiyat belirleme konusunda bilimsel bir dayanak ve esneklik istiyor
+
+Detaylar:
+Satıcı, alıcı ve bir ürün.
+Alıcılara ürüne ne kadar öderdiniz diye soruluyor.
+Optimum fiyat bilimsel ve esnek olarak bulunmak isteniyor.
+
